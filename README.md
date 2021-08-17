@@ -42,3 +42,24 @@ Linguagens e tecnologias que tenho conhecimento/familiaridade:
 - Curso Técnico em Informática, feito no Colégio de Aplicação Professor José de Souza Herdy (CAP Unigranrio).
   - Conclusão em 2013.
 </details>
+
+<details>
+  <summary>Qualificações</summary>
+
+| Curso                                                  | Onde estudou?     | Ano de conclusão |
+|--------------------------------------------------------|-------------------|------------------|
+| PHP Course                                             | SoloLearn         | 2021             |
+| The Full Stack Web Development Bootcamp 2021           | Udemy             | 2021             |
+| Linguagem de Programação C# - Básico                   | Fundação Bradesco | 2019             |
+| Git e Github para iniciantes                           | Udemy             | 2019             |
+| C++ com STL                                            | UERJ              | 2018             |
+| Curso de Extensão em Técnicas Avançadas de Programação | UniCarioca        | 2015             |
+</details>
+
+<details>
+  <summary>Conquistas</summary>
+  
+- Participação em competição interna (UERJ, 2017).
+  - XI Maratona de Programação UERJ, realizada na XII Semana do IME.
+  - Posição final: 3ª Colocação.
+</details>
