@@ -3,12 +3,12 @@
 Minhas estatísticas no GitHub:
 
 <div style="display: inline-block">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rt-oliveira&hide=contribs&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas de Rafael Teixeira no GitHub" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rt-oliveira&hide=contribs&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas de Rafael Teixeira no GitHub" height="150em"/>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rt-oliveira&layout=compact&locale=pt-br&theme=radical&langs_count=6&card_width=400" alt="Linguagens mais usadas de Rafael Teixeira no GitHub" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rt-oliveira&layout=compact&locale=pt-br&theme=radical&langs_count=6&card_width=400" alt="Linguagens mais usadas de Rafael Teixeira no GitHub" height="150em"/>
 </div>
 
-<br><br><br><br><br><br><br>
+<br>
 
 Formas de contato e redes sociais:
 
