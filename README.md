@@ -1,4 +1,4 @@
-<h2 align="center">Este sou eu, o Rafael Teixeira!!! 👋😀✌️</h2>
+<h2 align="center">Olá!!! 👋😀✌️ Caso não me conheça, chamo-me Rafael Teixeira! 🤝</h2>
 
 Minhas estatísticas no GitHub:
 
@@ -22,6 +22,23 @@ Linguagens e tecnologias que tenho conhecimento/familiaridade:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Visual Basic 6](https://img.shields.io/badge/-Visual%20Basic%206-blue?style=for-the-badge)
+
+<br>
+
+<details open>
+  <summary>Formação</summary>
+  
+- Pós-Graduação em Projeto e Gerência de Redes de Computadores, feito na UniCarioca.
+  - Conclusão em 2020.
+- Bacharelado em Ciência da Computação, feito na Universidade do Estado do Rio de Janeiro.
+  - Conclusão em 2019.
+  - No Trabalho de Conclusão do Curso foi feito um estudo sobre 2 estruturas de dados avançadas: o Heap Binomial e o Heap de Fibonacci.
+- Bacharelado em Ciência da Computação, feito na UniCarioca.
+  - Conclusão em 2018.
+  - No Trabalho de Conclusão do Curso foi feita uma análise entre 2 CMS (Sistemas de Gerenciamento de Conteúdo), o Joomla e o Wordpress.
+- Curso Técnico em Informática, feito no Colégio de Aplicação Professor José de Souza Herdy (CAP Unigranrio).
+  - Conclusão em 2013.
+</details>
