@@ -28,7 +28,7 @@ Linguagens e tecnologias que tenho conhecimento/familiaridade:
 
 <br>
 
-<details open>
+<details>
   <summary>Formação</summary>
   
 - Pós-Graduação em Projeto e Gerência de Redes de Computadores, feito na UniCarioca.
