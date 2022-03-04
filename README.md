@@ -19,14 +19,14 @@ Formas de contato e redes sociais:
 
 Linguagens e tecnologias que tenho conhecimento/familiaridade:
 
-![Autohotkey](https://img.shields.io/badge/Autohotkey-008000?style=for-the-badge&logoColor=white)
+![Autohotkey](https://img.shields.io/badge/Autohotkey-008000?logo=autohotkey&style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Visual Basic 6](https://img.shields.io/badge/-Visual%20Basic%206-blue?style=for-the-badge)
+![Visual Basic 6](https://img.shields.io/badge/-Visual%20Basic%206-blue?logo=visualstudio&style=for-the-badge)
 
 <br>
 
