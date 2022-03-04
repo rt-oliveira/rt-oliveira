@@ -50,6 +50,7 @@ Linguagens e tecnologias que tenho conhecimento/familiaridade:
 
 | Curso                                                  | Onde estudou?     | Ano de conclusão |
 |--------------------------------------------------------|-------------------|------------------|
+| Introdução à linguagem Python                          | Udemy             | 2022             |
 | PHP Course                                             | SoloLearn         | 2021             |
 | The Full Stack Web Development Bootcamp 2021           | Udemy             | 2021             |
 | Linguagem de Programação C# - Básico                   | Fundação Bradesco | 2019             |
